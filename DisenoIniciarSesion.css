@@ -1,0 +1,20 @@
+
+.form-inicio{
+  background-color: #24303c;
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid #ccc;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+}
+
+.form-inicio h1{
+     font-size: 50px;
+     margin-bottom: 20px;
+
+}
+
+.form-inicio h2 {
+  
+}

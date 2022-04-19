@@ -1,0 +1,25 @@
+#cuerpo-index {
+    background-color: cornflowerblue;
+}
+
+.Cabezeras h1{
+    text-align: center;
+    /**fuente Ralewey**/
+    font-family: 'Raleway', sans-serif;
+    /**el underline es para poner una linea en "Bienvenido a Facegram" **/
+    text-decoration: underline;
+}
+
+.form-index h3{
+    /**fuente Nunito**/
+    font-family: 'Nunito', sans-serif;
+}
+
+.form-index p{
+    /**fuente Send Flowers**/
+    font-family: 'Send Flowers', cursive;
+    font-size: 20px;
+    font-weight: 700;
+    color: black;
+
+}
